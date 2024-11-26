@@ -1,1 +1,1 @@
-# KONTLIN_pack_project
+# mobile_android_tutorials
